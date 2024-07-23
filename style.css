@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+  .tituloPrincipal{
+    color: #5f9ea0;
+    font-weight: bold;
+    
+  }
+
+  .card-container {
+    background-color: #4f5454;
+    border: 1px solid #ccc;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0 6px 10px #333232;
+    padding: 36px;
+    margin: 16px;
+    /* width: 30%; */
+    text-align: center;
+         
+}
+
+.card {
+    list-style: none;
+    box-shadow: 5px 6px 10px #dbd6d6;
+    padding: 16px;
+    margin: 16px;
+    width: 30%;
+    text-align: center;
+    
+}
+
+.image_clase{
+    width: 100%;
+    border-radius: 8px;
+    
+}
+
+.tituloCard{
+    color: #ccc;
+}
