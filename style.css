@@ -21,7 +21,10 @@
     margin: 16px;
     /* width: 30%; */
     text-align: center;
-         
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
@@ -31,7 +34,7 @@
     margin: 16px;
     width: 30%;
     text-align: center;
-    
+   
 }
 
 .image_clase{
